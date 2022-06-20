@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iteremoval"]
+	path = iteremoval
+	url = https://github.com/cihga39871/iteremoval
+	shallow = true
+	registered = true
